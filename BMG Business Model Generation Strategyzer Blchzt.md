@@ -5,7 +5,7 @@ By Strategyzer ([strategyzer.com](https://www.strategyzer.com/))
 ## Customer Segments
 - For whom are we creating value?  
 - Who are our most important customers?
-Mass Market
+  - Mass Market
   - Niche Market
   - Segmented
   - Diversified
